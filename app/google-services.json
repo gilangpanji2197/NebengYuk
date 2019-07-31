@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533214398520",
+    "firebase_url": "https://nebengyuk-13c2e.firebaseio.com",
+    "project_id": "nebengyuk-13c2e",
+    "storage_bucket": "nebengyuk-13c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533214398520:android:db56e126cdf49348",
+        "android_client_info": {
+          "package_name": "com.example.gilang.nebengyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533214398520-31dvfdmah40r6h9lhbvpqfft0d7rmqed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gilang.nebengyuk",
+            "certificate_hash": "8e715e770cccdb14222bf42c5a3c63e3679c0ec1"
+          }
+        },
+        {
+          "client_id": "533214398520-2g717bj1utl02p3htb3bqcaq0pjlhetb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqn-j22v54XcISnHjcJ0Ue-RFuwf51cz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533214398520-2g717bj1utl02p3htb3bqcaq0pjlhetb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

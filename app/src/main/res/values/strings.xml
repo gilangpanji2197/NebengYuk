@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NebengYuk!</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title"></string>
+    <string name="slide_1_desc">Hari gini masih bingung mau balik tapi serba-serbi mahal?</string>
+
+    <string name="slide_2_title"></string>
+    <string name="slide_2_desc">Dengan biaya pas-pasan ragu bisa sampai?</string>
+
+    <string name="slide_3_title"></string>
+    <string name="slide_3_desc">Ayo cepat pulang keluarga dirumah udah nunggu kamu loh!</string>
+
+
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App settings and enable permissions</string>
+
+
+</resources>
